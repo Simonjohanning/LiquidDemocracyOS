@@ -10,7 +10,7 @@
   "organizationUrl": "https://github.com/SimonJohanning/LiquidDemocracyOS",
   "notifications": {
     "mailer": {
-      "service": "directTransport",
+      "service": "directTransport"
     }
   }
 }
