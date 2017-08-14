@@ -1,0 +1,16 @@
+{
+  "jwtSecret": "",
+  "protocol": "http",
+  "host": "localhost",
+  "publicPort": 3000,
+  "mongoUrl": "mongodb://localhost/DemocracyOS-dev",
+  "staff": ["dressler@informatik.uni-leipzig.de"],
+  "locale": "en",
+  "organizationName": "LiquidDemocracyOS",
+  "organizationUrl": "https://github.com/SimonJohanning/LiquidDemocracyOS",
+  "notifications": {
+    "mailer": {
+      "service": "directTransport",
+    }
+  }
+}
